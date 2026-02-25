@@ -47,9 +47,12 @@ Para reproducir este análisis en tu máquina local, sigue estos pasos:
     ```pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn
 
     Carga los datos:
-    Verifica que el archivo datos_tratados.csv esté en el mismo directorio que el cuaderno, o ajusta la ruta en la celda de lectura: pd.read_csv('datos_tratados.csv').
+    Verifica que el archivo datos_tratados.csv esté en el mismo directorio
+    que el cuaderno, o ajusta la ruta en la celda de lectura:
+    pd.read_csv('datos_tratados.csv').
 
     Ejecuta el cuaderno:
-    Abre notebook_telecomX_parte2.ipynb en Jupyter Notebook, JupyterLab o Google Colab, y ejecuta las celdas secuencialmente.
+    Abre notebook_telecomX_parte2.ipynb en Jupyter Notebook, JupyterLab o
+    Google Colab, y ejecuta las celdas secuencialmente.
 
 Desarrollado por [José Salgado / JoseSalgado2003]
